@@ -1,11 +1,19 @@
 {
-  "posts": [
+  "music_albums": [
     {
       "id": 1,
-      "title": "hello"
-    }
+      "title": "Tailor Swift"
+    },
+     {
+      "id": 2,
+      "title": "Justin Bieber"
+    },
+     {
+      "id": 3,
+      "title": "Shakira"
+    },
   ],
   "profile": {
-    "name": "typicode"
+    "name": "Chhattlal Sahu"
   }
 }
