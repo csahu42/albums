@@ -5,6 +5,12 @@
       "title": "hello"
     }
   ],
+  "music_albums": [
+    {
+      "id": 1,
+      "title": "Taylor Swift"
+    }
+  ],
   "profile": {
     "name": "typicode"
   }
