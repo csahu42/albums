@@ -1,1 +1,11 @@
-{"name":"John", "age":31, "city":"New York"}
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
