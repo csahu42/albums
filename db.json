@@ -1,10 +1,1 @@
-
-  [
-  {
-  "title": "taylor Swift"
-  
-},
- {
-    "title": "Celena Gomez"
- }
-  ]
+{"name":"John", "age":31, "city":"New York"}
